@@ -1,0 +1,48 @@
+[
+		  {
+    "title":"تسريحات الشعر سهلة",
+    "drawable":"",
+    "submenu":"فيديوهات",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"إبداعات ibda3at II",
+        "provider":"youtube",
+        "arguments":[
+          "UCgokeLXOBVyCk2B7hJjK9cA",
+          "channel"
+		]
+	       }
+	    ,
+	     {
+        "title":"روانه Rawana",
+        "provider":"youtube",
+        "arguments":[
+          "UCT9HCPqXTmEf84dEUDr44eQ",
+          "channel"
+		]
+	       }
+	   
+	    
+        ]
+      }
+	,  
+	 
+
+
+  {
+    "title":"A propos",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.medooapps.aftv.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
