@@ -45,7 +45,95 @@
       }
 	,  
 	 
+ {
+    "title":"Arsenal",
+    "drawable":"",
+    "submenu":"Arsenal Official ",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"Arsenal",
+        "provider":"youtube",
+        "arguments":[
+          "UCpryVRk_VDudG8SHXgWcG0w",
+          "channel"
+		]
+	       }
+	    ]
+ }
+	,
+	 {
+    "title":"ArsenalVideosHD",
+    "drawable":"",
+    "submenu":"Arsenal videos ",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"",
+        "provider":"youtube",
+        "arguments":[
+          "UCXNPFRJgdTzA7SQF6rlHBOg",
+          "channel"
+		]
+	       }
+	    ]
+ }
+	,
+		 {
+    "title":"Arsenal Daily News",
+    "drawable":"",
+    "submenu":"Arsenal videos ",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"",
+        "provider":"youtube",
+        "arguments":[
+          "UCosiyKVQAmHEm3ZPZeuefmw",
+          "channel"
+		]
+	       }
+	    ]
+ }
+	,
+		 {
+    "title":"Arsenal Daily News",
+    "drawable":"",
+    "submenu":"Highlights and Goals ",
+    "iap":false,
+    "tabs":[
+	      	   {
+        "title":"Highlights",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
 
+        ]
+      },
+	        {
+        "title":" Highlights2",
+        "provider":"youtube",
+        "arguments":[
+          "UCQ8teRDg67faTu56c2l_IYA",
+          "channel"
+
+        ]
+      },
+	           {
+        "title":"Highlights3",
+        "provider":"youtube",
+        "arguments":[
+          "UCutIgEWpkJY9XiVrUmsyhtA",
+          "channel"
+
+        ]
+      }
+	    
+
+	    ]
+ }
+	,
 
   {
     "title":"A propos",
