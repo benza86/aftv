@@ -1,28 +1,36 @@
 [
 		  {
-    "title":"تسريحات الشعر سهلة",
+    "title":"AFTV",
     "drawable":"",
-    "submenu":"فيديوهات",
+    "submenu":"VIDEOS",
     "iap":false,
     "tabs":[
 	       {
-        "title":"إبداعات ibda3at II",
+        "title":"AFTV",
         "provider":"youtube",
         "arguments":[
-          "UCgokeLXOBVyCk2B7hJjK9cA",
+          "UCBTy8j2cPy6zw68godcE7MQ",
           "channel"
 		]
 	       }
 	    ,
 	     {
-        "title":"روانه Rawana",
+        "title":"Arsenal-Real",
         "provider":"youtube",
         "arguments":[
-          "UCT9HCPqXTmEf84dEUDr44eQ",
-          "channel"
+          "PLub7sJmces1R2Id1IztS_EldKOC4pk31S",
+          "playlist"
 		]
 	       }
-	   
+	 ,
+	     {
+        "title":"Arsenal-Cardiff",
+        "provider":"youtube",
+        "arguments":[
+          "PLub7sJmces1RMUDDfkz4V_WfKmgSxv5-4",
+          "playlist"
+		]
+	       }   
 	    
         ]
       }
