@@ -1,23 +1,7 @@
 [
 	
 	
-	
-	  {
-    "title":"Arsenal - Everton",
-    "drawable":"",
-    "submenu":"LIVE: Scroll down-> Wait-> click PLAY",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://kora-online.tv/game/match/2793/arsenal-fc-vs-everton-fc.html"
-        ]
-      }
-    ]
 
-  },
 	
 		  {
     "title":"AFTV",
