@@ -1,20 +1,5 @@
 [
-	  {
-    "title":"Arsenal - Everton",
-    "drawable":"",
-    "submenu":"LIVE",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://neosportek7.blogspot.com/p/premier-league-1.html"
-        ]
-      }
-    ]
-
-  },
+	
 	{
     "title":"Arsenal - Everton",
     "drawable":"",
