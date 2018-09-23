@@ -1,26 +1,11 @@
 [
 	
-	{
-    "title":"Arsenal - Everton",
-    "drawable":"",
-    "submenu":"LIVE",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://neosportek7.blogspot.com/p/premier-league-5.html"
-        ]
-      }
-    ]
-
-  },
+	
 	
 	  {
     "title":"Arsenal - Everton",
     "drawable":"",
-    "submenu":"LIVE",
+    "submenu":"LIVE: Scroll down-> Wait-> click PLAY",
     "iap":false,
     "tabs":[
       {
