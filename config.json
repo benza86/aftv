@@ -18,6 +18,24 @@
 		]
 	       }
 	    ,
+	        {
+        "title":"Arsenal vs FC Everton ",
+        "provider":"youtube",
+        "arguments":[
+          "PLub7sJmces1Raqqfi_7PsbrxX5aE82sxm",
+          "playlist"
+		]
+	       }   
+	     , 
+	     {
+        "title":"Arsenal vs FC Vorskla",
+        "provider":"youtube",
+        "arguments":[
+          "PLub7sJmces1RkaJ2L6KVDmnfKiv4kePLd",
+          "playlist"
+		]
+	       }   
+	     ,
 	     {
         "title":"Arsenal-Real",
         "provider":"youtube",
@@ -27,15 +45,7 @@
 		]
 	       }
 	 ,
-	     {
-        "title":"Arsenal-Cardiff",
-        "provider":"youtube",
-        "arguments":[
-          "PLub7sJmces1RMUDDfkz4V_WfKmgSxv5-4",
-          "playlist"
-		]
-	       }   
-	     ,
+	    
 	     {
         "title":"Arsenal-Tottenahm  (U23s)",
         "provider":"youtube",
@@ -48,6 +58,62 @@
         ]
       }
 	,  
+	 {
+    "title":"Highlights and Goals",
+    "drawable":"",
+    "submenu":"Highlights and Goals ",
+    "iap":false,
+    "tabs":[
+	    	   {
+        "title":"Highlights",
+        "provider":"youtube",
+        "arguments":[
+          "UC7tQUUDtxhBiMPVy22eyXOw",
+          "channel"
+
+        ]
+      },
+	       {
+        "title":"Highlights",
+        "provider":"youtube",
+        "arguments":[
+          "UC83q1qyLWkQqg9EmURg4PUA",
+          "channel"
+
+        ]
+      },
+	      	   {
+        "title":"Highlights",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	        {
+        "title":" Highlights2",
+        "provider":"youtube",
+        "arguments":[
+          "UCQ8teRDg67faTu56c2l_IYA",
+          "channel"
+
+        ]
+      },
+	           {
+        "title":"Highlights3",
+        "provider":"youtube",
+        "arguments":[
+          "UCutIgEWpkJY9XiVrUmsyhtA",
+          "channel"
+
+        ]
+      }
+	    
+
+	    ]
+ }
+	,
 	 
  {
     "title":"Arsenal",
@@ -100,44 +166,7 @@
 	    ]
  }
 	,
-		 {
-    "title":"Highlights and Goals",
-    "drawable":"",
-    "submenu":"Highlights and Goals ",
-    "iap":false,
-    "tabs":[
-	      	   {
-        "title":"Highlights",
-        "provider":"youtube",
-        "arguments":[
-          "UC1rhtAWLDdgcEAo1JKkBKkg",
-          "channel"
-
-        ]
-      },
-	        {
-        "title":" Highlights2",
-        "provider":"youtube",
-        "arguments":[
-          "UCQ8teRDg67faTu56c2l_IYA",
-          "channel"
-
-        ]
-      },
-	           {
-        "title":"Highlights3",
-        "provider":"youtube",
-        "arguments":[
-          "UCutIgEWpkJY9XiVrUmsyhtA",
-          "channel"
-
-        ]
-      }
-	    
-
-	    ]
- }
-	,
+		
 
   {
     "title":"A propos",
